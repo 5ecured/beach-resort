@@ -1,6 +1,5 @@
 import React, { useState, useContext, Fragment } from 'react'
 import defaultBc from '../../images/room-1.jpeg'
-import Hero from '../Hero'
 import Banner from '../Banner'
 import { Link } from 'react-router-dom'
 import { RoomContext } from '../../context'
